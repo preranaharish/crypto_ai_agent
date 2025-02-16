@@ -47,3 +47,5 @@ Here's a peek at what makes this assistant tick:
 *   **TogetherAI API:** It uses the TogetherAI API to generate insightful and informative responses.
 *   **CoinAPI:** Used to fetch current cryptocurrency prices.
 *   **Libraries:** We rely on libraries like `requests`, `json`, and `python-dotenv` to make everything work smoothly.
+
+Store these API Keys in a .env file.
